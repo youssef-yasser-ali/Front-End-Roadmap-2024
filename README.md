@@ -1,4 +1,4 @@
-<h1 align="center">🎯 Full Front-end Roadmap 2023 </h1>
+<h1 align="center">🎯 Full Front-end Roadmap 2024 </h1>
 
 ### This roadmap is divided into 4 levels:
 
